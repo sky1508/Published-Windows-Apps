@@ -1,0 +1,1 @@
+This application doesn't collect any user data, connects to any online service, or contains other features that could allow users to unintentionally share their personal info.
